@@ -12,7 +12,7 @@ that is most popular where the word is used.
 
 # Favourite Team
 
-### My favourite team in football is barcelona
+### My favourite team in football is Barcelona
 Three best players in barcelona
 1. Lionel Messi
 2. Xavi
