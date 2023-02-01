@@ -7,3 +7,19 @@
 to varying degrees, ***kicking a ball to score a goal.***
 Unqualified,the word football normally means the form of football
 that is most popular where the word is used.
+
+-----
+
+# Favourite Team
+
+### My favourite team in football is barcelona
+Three best players in barcelona
+1. Lionel Messi
+2. Xavi
+3. Ronaldinho
+
+### Other teams that you think would be good to watch play are
+- Liverpool
+- Manchester United
+- Chelsea
+- Arsenal
