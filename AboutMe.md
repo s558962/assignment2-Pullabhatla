@@ -1,2 +1,2 @@
 # Sai Krishna Pullabhatla
-[My Photo]()
+[Click here to see my photo]()
