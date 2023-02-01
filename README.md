@@ -18,7 +18,7 @@ Three best players in barcelona
 2. Xavi
 3. Ronaldinho
 
-### Other teams that you think would be good to watch play are
+### Other teams that I think would be good to watch play are
 - Liverpool
 - Manchester United
 - Chelsea
