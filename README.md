@@ -1,4 +1,3 @@
-# assignment2-Pullabhatla
 # Sai Krishna Pullabhatla
 ###### Favorite game is Football
 
