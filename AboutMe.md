@@ -15,3 +15,11 @@ I finished my undergrad at Guru Nanak Institutions Technical Campus in Ibrahimpa
 | FRANCE |  The captivating beauty that France possesses cannot be ignored. You've never been to France, yet it has a lot to offer. Without a doubt, it would lead you down memory lane. Images of the Paris Eiffel Tower, the Cannes Film Festival, Nice's pebbly beaches, the best wines of Bordeaux, and the stunning architecture of Lyon invigorate you. Even though half of the globe already adores France, there are countless reasons to fall even more in love with the country.  | 30 DAYS |
 | JAPAN |  One of the oldest civilizations, Japan has a stunning and varied past. The gorgeous, diverse landscape, which the Japanese love for its mountains and breathtaking views, offers so many diverse experiences that draw travelers from all over the world.  | 30 DAYS | 
 
+-----
+# PITHY QUOTES
+
+> "Behind every great man is a woman rolling her eyes" *― Jim Carrey*
+
+> "The secret of staying young is to live honestly, eat slowly, and lie about your age."*—Lucille Ball*
+
+
