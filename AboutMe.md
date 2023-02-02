@@ -23,3 +23,42 @@ I finished my undergrad at Guru Nanak Institutions Technical Campus in Ibrahimpa
 > "The secret of staying young is to live honestly, eat slowly, and lie about your age."*—Lucille Ball*
 
 
+------
+# Code Fencing
+
+> Sass scrollbar style mixin working in textarea but not in random container
+ Link to the question :https://stackoverflow.com/questions/74687925/sass-scrollbar-style-mixin-working-in-textarea-but-not-in-random-container
+
+ ```
+ @mixin scrollbars($size, $foreground-color, $background-color: mix($foreground-color, white,  50%)) {
+  // For Google Chrome
+  &::-webkit-scrollbar {
+    width:  $size;
+    height: $size;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background: $foreground-color;
+  }
+
+  &::-webkit-scrollbar-track {
+    background: $background-color;
+  }
+
+  // For Internet Explorer
+  & {
+    scrollbar-face-color: $foreground-color;
+    scrollbar-track-color: $background-color;
+  }
+}
+Usage:
+body {
+  @include scrollbars(10px, pink, red);
+}
+.custom-area {
+  @include scrollbars(.5em, slategray);
+}
+
+Link to the code: https://css-tricks.com/snippets/sass/custom-scrollbars-mixin/
+
+```
